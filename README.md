@@ -104,4 +104,4 @@ Planned enhancements include:
 
 ## License
 
-MIT
+MIT License
